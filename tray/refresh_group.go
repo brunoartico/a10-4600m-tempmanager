@@ -1,7 +1,7 @@
 package tray
 
 import (
-	"bartico.com/tempmgr/manager"
+	"bartico.com/a10-4600m-tempmanager/manager"
 	"github.com/getlantern/systray"
 )
 

@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bartico.com/tempmgr/tray"
+	"bartico.com/a10-4600m-tempmanager/tray"
 )
 
 func main() {

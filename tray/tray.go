@@ -3,8 +3,8 @@ package tray
 import (
 	"time"
 
-	"bartico.com/tempmgr/icon"
-	"bartico.com/tempmgr/manager"
+	"bartico.com/a10-4600m-tempmanager/icon"
+	"bartico.com/a10-4600m-tempmanager/manager"
 	"github.com/getlantern/systray"
 )
 

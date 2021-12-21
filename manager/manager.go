@@ -4,8 +4,8 @@ import (
 	"log"
 	"time"
 
-	"bartico.com/tempmgr/powerlimits"
-	"bartico.com/tempmgr/sensors"
+	"bartico.com/a10-4600m-tempmanager/powerlimits"
+	"bartico.com/a10-4600m-tempmanager/sensors"
 )
 
 var maxTemp float32 = 90
