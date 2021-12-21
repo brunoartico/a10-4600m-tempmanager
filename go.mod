@@ -1,4 +1,4 @@
-module bartico.com/tempmgr
+module bartico.com/a10-4600m-tempmanager
 
 go 1.15
 
